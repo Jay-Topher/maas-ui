@@ -87,7 +87,7 @@
     "@types/node": "18.11.9",
     "@types/path-parse": "1.0.19",
     "@types/pluralize": "0.0.29",
-    "@types/react": "17.0.52",
+    "@types/react": "18.0.26",
     "@types/react-dom": "17.0.18",
     "@types/react-redux": "7.1.24",
     "@types/react-router": "5.1.19",
